@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="E-BUDGET"
+  id="myeclipse.1530899589518"
+  context-root="/E-BUDGET"
+  j2ee-spec="5.0"
+  archive="E-BUDGET.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
